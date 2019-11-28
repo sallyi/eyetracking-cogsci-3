@@ -1,0 +1,32 @@
+	First Fixation Duration_All Media_Face AOI Group_N	First Fixation Duration_All Media_Face AOI Group_Mean	First Fixation Duration_All Media_Face AOI Group_Max	First Fixation Duration_All Media_Face AOI Group_Min	First Fixation Duration_All Media_Face AOI Group_Sum	First Fixation Duration_All Media_Face AOI Group_Median	First Fixation Duration_All Media_Face AOI Group_Stdev	First Fixation Duration_All Media_Function AOI Group_N	First Fixation Duration_All Media_Function AOI Group_Mean	First Fixation Duration_All Media_Function AOI Group_Max	First Fixation Duration_All Media_Function AOI Group_Min	First Fixation Duration_All Media_Function AOI Group_Sum	First Fixation Duration_All Media_Function AOI Group_Median	First Fixation Duration_All Media_Function AOI Group_Stdev
+P001	1	0,22	0,22	0,22	0,22	0,22	-	1	0,19	0,19	0,19	0,19	0,19	-
+P002	1	0,41	0,41	0,41	0,41	0,41	-	1	0,20	0,20	0,20	0,20	0,20	-
+P003	1	0,40	0,40	0,40	0,40	0,40	-	1	0,31	0,31	0,31	0,31	0,31	-
+P004	1	0,27	0,27	0,27	0,27	0,27	-	1	0,18	0,18	0,18	0,18	0,18	-
+P005	1	0,01	0,01	0,01	0,01	0,01	-	1	0,17	0,17	0,17	0,17	0,17	-
+P006	1	0,02	0,02	0,02	0,02	0,02	-	1	0,30	0,30	0,30	0,30	0,30	-
+P007	1	0,19	0,19	0,19	0,19	0,19	-	1	0,30	0,30	0,30	0,30	0,30	-
+P008	1	0,53	0,53	0,53	0,53	0,53	-	1	0,04	0,04	0,04	0,04	0,04	-
+P009	1	0,32	0,32	0,32	0,32	0,32	-	1	0,20	0,20	0,20	0,20	0,20	-
+P010	1	0,19	0,19	0,19	0,19	0,19	-	1	0,01	0,01	0,01	0,01	0,01	-
+P011	1	0,27	0,27	0,27	0,27	0,27	-	1	0,67	0,67	0,67	0,67	0,67	-
+P012	1	0,87	0,87	0,87	0,87	0,87	-	1	0,23	0,23	0,23	0,23	0,23	-
+P013	1	0,30	0,30	0,30	0,30	0,30	-	1	0,14	0,14	0,14	0,14	0,14	-
+P014	1	1,37	1,37	1,37	1,37	1,37	-	1	0,97	0,97	0,97	0,97	0,97	-
+P015	1	0,42	0,42	0,42	0,42	0,42	-	1	0,34	0,34	0,34	0,34	0,34	-
+P016	1	0,19	0,19	0,19	0,19	0,19	-	1	0,43	0,43	0,43	0,43	0,43	-
+P017	1	0,01	0,01	0,01	0,01	0,01	-	1	0,01	0,01	0,01	0,01	0,01	-
+P018	1	0,40	0,40	0,40	0,40	0,40	-	1	0,24	0,24	0,24	0,24	0,24	-
+P019	1	0,27	0,27	0,27	0,27	0,27	-	1	0,22	0,22	0,22	0,22	0,22	-
+P020	1	0,88	0,88	0,88	0,88	0,88	-	1	0,25	0,25	0,25	0,25	0,25	-
+P021	1	0,98	0,98	0,98	0,98	0,98	-	1	0,17	0,17	0,17	0,17	0,17	-
+P022	1	0,05	0,05	0,05	0,05	0,05	-	1	0,08	0,08	0,08	0,08	0,08	-
+P023	1	0,23	0,23	0,23	0,23	0,23	-	1	2,26	2,26	2,26	2,26	2,26	-
+P024	1	0,16	0,16	0,16	0,16	0,16	-	1	0,32	0,32	0,32	0,32	0,32	-
+P025	1	0,59	0,59	0,59	0,59	0,59	-	1	0,17	0,17	0,17	0,17	0,17	-
+P026	1	0,28	0,28	0,28	0,28	0,28	-	1	0,27	0,27	0,27	0,27	0,27	-
+P027	1	0,13	0,13	0,13	0,13	0,13	-	1	0,31	0,31	0,31	0,31	0,31	-
+P028	1	0,23	0,23	0,23	0,23	0,23	-	1	0,20	0,20	0,20	0,20	0,20	-
+P029	1	0,86	0,86	0,86	0,86	0,86	-	1	0,77	0,77	0,77	0,77	0,77	-
+P030	1	0,33	0,33	0,33	0,33	0,33	-	1	0,17	0,17	0,17	0,17	0,17	-
+All Recordings	30	0,38	1,37	0,01	11,40	0,28	0,32	30	0,34	2,26	0,01	10,16	0,22	0,42
