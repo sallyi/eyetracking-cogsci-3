@@ -1,0 +1,12 @@
+Measure	Definition in Tobii
+Time to First Fixation (Across Media)	The time from the start of the stimulus display until the test participant fixes on the AOI or AOI Group for the first time (seconds).
+Fixations Before	Number of times the participant fixates on the media before fixating on an AOI or AOI Group for the first time (count).
+First Fixation Duration	Duration of the first fixation on an AOI or an AOI Group (seconds).
+Fixation Duration	Duration of each individual fixations within an AOI, or within all AOIs belonging to an AOI Group (seconds).
+Total Fixation Duration (Include Zeros)	Duration of all fixatinos within an AOI, or within all AOIs belonging to an AOI Group (seconds).
+Fixation Count	Number of times the participant fixates on an AOI or an AOI Group (count).
+Fixation Count (Include Zeros)	Number of times the participant fixates on an AOI or an AOI Group (count).
+Visit Duration	Duration of each individual visit within an AOI or an AOI Group (seconds).
+Total Visit Duration (Include Zeros)	(former Observation Length) Duration of all visits within an AOI or an AOI Group (seconds).
+Visit Count (Include Zeros)	Number of visits within an AOI or an AOI Group (count).
+Percentage Fixated	Percentage of participants that fixated at least once within an AOI or AOI Group (%).

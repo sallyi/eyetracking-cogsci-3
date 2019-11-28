@@ -1,0 +1,31 @@
+ID number	name	consent form	lights	TOBII ID	RecordingID	Duration (seconds)	Weighted Gaze Samples (%)	Gaze Samples (%)	callibration	Tobii test	Follow-up form	Sequence
+P001	Kornelija	n	close window, full indoor	P001	Rec 01	457.8	63	64	y	y	y	A
+P002	Clara 	y	close window, full indoor	P002	E_P002_rec01	492.4	60	62	y	y	y	E
+P003	Tereza	y	close window, full indoor	P003	F_p003_rec1	411.6	43	43	y	y	y	F
+P004		y	close window, full indoor	P004	A_p004_rec1	407.4	47	50	y	y	y	A
+P005		y	close window, full indoor	P005	B_p005_rec1	367.1	7	7	y	y	y	B
+P006		y	close window, full indoor	P006	C_p006_01	347.8	14	14	y	y	y	C
+P007		y	close window, full indoor	P007	D_p007_rec1	360.1	93	93	y	y	y	D
+P008		y	close window, full indoor	P008	E_p008_rec1	410.4	18	19	y	y	y	E
+P009		y	close window, full indoor	P009	F_009_rec1	391.7	49	49	y	y	y	F
+P010		y	close window, full indoor	P010	A_P010_rec1	479.6	53	53	y	y		A
+P011		y	close window, full indoor	P011	B_P011	441.1	87	89	y	y	y	B
+P012		y	close window, full indoor	P012	C_P012	355.6	92	95	y	y	y	C
+P013		y	close window, full indoor	P013	D_P013	441.9	97	98	y	y	y	D
+P014		y	close window, full indoor	P014	E_P014	462.6	65	65	y	y	y	E
+P015		y	close window, full indoor	P015	F_P015	420.6	90	91	y	y	y	F
+P016		y	close window, full indoor	P016	A_P016	407.5	95	95	y	y	y	A
+P017		y	close window, full indoor	P017	B_Rec 03	353.3	15	15	y	y	y	B
+P018		y	close window, full indoor	P018	C_Rec 04	406	93	93	y	y	y	C
+P019		y	close window, full indoor	P019	D_P019	419.5	89	89	y	y	y	D
+P020		y	close window, full indoor	P020	E_P020	458.7	78	78	y	y	y	E
+P021		y	close window, full indoor	P021	F_P021	597.4	89	92	y	y	y	F
+P022		y	close window, full indoor	P022	A_22_REC1	414.3	83	86	y	y	y	A
+P023		y	close window, full indoor	P023	B_P023_REC1	421.4	89	89	y	y	y	B
+P024		y	close window, full indoor	P024	C_024_REC1	373.9	92	93	y	y	y	C
+P025		y	close window, full indoor	P025	D_025_REC1	335.2	94	97	y	y	y	D
+P026		y	close window, full indoor	P026	E_026_REC1	414.5	58	58	y	y	y	E
+P027		y	close window, full indoor	P027	F_026-REC1	397.3	95	96	y	y	y	F
+P028		y	close window, full indoor	P028	A_028-REC1	372.3	76	76	y	y		A
+P029		y	close window, full indoor	P029	B_029	353.1	94	94	y	y		B
+P030		y	close window, full indoor	P030	C_030-1	332.7	56	61				C
