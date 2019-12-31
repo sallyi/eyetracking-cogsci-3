@@ -1,0 +1,53 @@
+target/filler/crosshair	image-name	emo-primer	Emotion?	functional-primer	image note:	sentence note:
+crosshair	_1_bottomleft	N/A		N/A		
+crosshair	_2_topright	N/A		N/A		
+crosshair	_3_topleft	N/A		N/A		
+crosshair	_4_bottomright	N/A		N/A		
+filler	1_kitchen-1	I think there is a nail in my salad, disgusting.	neg	I am cooking something healthy tonight.		
+filler	1_kitchen-2	I burned my hand! Ouch... 	neg	I am getting ready to cook soon.		
+filler	1_kitchen-3	I cut myself while cooking - help!		I can clean up the kitchen later.		
+filler	1_kitchen-4	I am way too tired to cook anything tonight.		I am cooking something simple tonight.		
+target	1_kitchen	I think putting cheese on pasta is disgusting!	neg	I am going to put some cheese on my pasta.		
+filler	2_car-inside-1	I hate getting stuck in traffic.		I am on my way now, see you soon.		
+filler	2_car-inside-2	I hate it when my seat-belt gets stuck.		I always buckle up in the car.		
+filler	2_car-inside-3	I think it's sad to spend so much time in the car.		I like to prepared for long rides. 		
+filler	2_car-inside-4	I am really upset and need to get out of the car.	neg	I have to get out of the car now.		
+target	2_car-inside	I'm so mad that my car is so old and is falling apart.		My car is so old I should get a new one soon.		
+filler	3_house-1	I dread visiting my family for Christmas.	neg	I'm going outside to get the mail.		
+filler	3_house-2	I don't want to go outside today because I am sad.	neg	I will be out front soon.		
+filler	3_house-3	I will never live in a beautiful place, because I am a failure.		I am moving to a new place. 		
+filler	3_house-4	I am not very happy to be back from holiday.		I don't need a lot of space to live in.		
+target	3_house	Oh no! I left all my things upstairs.		I will go grab my things from upstairs.		
+filler	4_floor-cleaner-1	I don't know why the floor is all sticky. Yuck...		I wash the floor every Sunday.		
+filler	4_floor-cleaner-2	I think that's a stupid way to clean the cottage.		I sweep up in my old cottage.		
+filler	4_floor-cleaner-3	I hate it when the floor is dirty.		I have some time to clean the floor. 		
+filler	4_floor-cleaner-4	I have horrible allergies and need to keep things clean.		My pets shed on the floor.		
+target	4_floor-cleaner	I'm so mad at myself for spilling juice all over.	neg	I'm cleaning up the spill now. 		
+filler	5_car-front-seat-1	I can never find anything in this car!		I think the map is in here.		
+filler	5_car-front-seat-4	I'm a mess and my things are never where I left them.	neg	I am going to clean out my car.		
+target	fsun	I hate that I always forget my sunglasses in the car!		I think my sunglasses are in the car.		
+filler	6_bag-1	I hate it when I get tacky gifts.		I always carry everything I need with me.		
+filler	6_bag-2	I am really dreading going out tonight.		Let me just check, I think I have a napkin.		
+filler	6_bag-3	I am grabbing my things and getting out of here!		I would like to go shopping.		
+filler	6_bag-4	I carry so many things that my back is breaking.		I have to get my things and head home		
+target	6_bag	I am so careless and always getting my stuff stolen.		I think my things are hanging by the door.		
+filler	7_coffee-1	I am always super tired.		I am going out for breakfast today.		
+filler	7_coffee-2	I always spill my drinks all over the place. So embarrassing...		I will drink it before it gets cold.		
+filler	7_coffee-3	I refuse to drink this. 		I will drink it later.		
+filler	7_coffee-4	I can't drink this! Yuck!		I don't drink caffeine in the evening. 		
+target	7_coffee	I think the milk is bad, gross!		I have the same routine every morning		
+filler	8_instrument-1	I would love to have a hobby, but I just don't have the time.		I am going to tune up before the concert		
+filler	8_instrument-2	I think the music is too loud and it hurts my ears.		I have been practicing music since I was little.		
+filler	8_instrument-3	I always cry when I hear beautiful music.		I teach classical music.		
+filler	8_instrument-4	I get very sad when I hear this music.		I play music every day.		
+target	8_instrument	I don't know how to play music, and I feel it's too late to learn.		I prefer instruments that don't need to be tuned very often.		
+filler	9_furniture-1	I don't like to sit in conferences all day.		I am in a meeting all day.		
+filler	9_furniture-2	I very stressed and have too much reading to do.		I am reading a lot at the moment.		
+filler	9_furniture-3	I am too busy at work right now.		I am at work right now.		
+filler	9_furniture-4	I never want to work in an office.		I work in an office.		
+target	9_furniture	I have severe back pain from sitting too much. 		I am redecorating my workspace.		
+filler	10_boat-1	I think fishing is really wrong.		I am out fishing today.		
+filler	10_boat-2	I am afraid of the woods in this area.		I am out for a walk.		
+filler	10_boat-3	This place gives me the creeps.		I prefer travelling by water. 		
+filler	10_boat-4	I think it's a terrible place to live. 		I am going down to the marshes.		
+target	10_boat	I can't swim so I'm afraid of drowning.		I'm going to go up the mast. 		
